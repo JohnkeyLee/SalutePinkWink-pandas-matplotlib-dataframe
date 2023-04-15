@@ -1,8 +1,14 @@
 # SaultePinkWink
 This Repo contains what I learned from "the great teacher" 
-### PinkWink
-
-## How to data process and express
+### [PinkWink](https://github.com/PinkWink)
+## Title: How to use pandas, matplotlib, and dataframe
+The whole process is to learn _**the data processing and analysis**_
+<br/>**Task:** Do data processing with csv files and written data, and plot graphs
+<br/>**Work environment:** 
+> python 3.9.5 (4/15/2023)
+> pandas 1.5.3 
+> matplotlib 3.7.0
+> numpy 1.24.2
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
