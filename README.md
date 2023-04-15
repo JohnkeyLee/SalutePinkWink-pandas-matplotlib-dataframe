@@ -7,7 +7,7 @@ This Repo contains what I learned from "the great teacher"
 The below csv files and figures show you the results with the python code in this repo
 ***
 ### 1-panda-advanced-function
-[1-panda-advanced-function.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11193096/1-panda-advanced-function.csv)
+[1-panda.csv](https://github.com/JohnkeyLee/SalutePinkWink-pd-graph/files/11240816/1-panda.csv)
 
 ### 1-7
 ![Figure_1](https://user-images.githubusercontent.com/103592307/230974257-db2c6775-5a40-4f67-b072-dfeffe6c8e74.png)
