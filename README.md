@@ -12,13 +12,13 @@ The whole process is to learn _**the data processing and analysis**_
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
-### 1-pandas
+### 1-pandas: Index, and merge
 [1-panda.csv](https://github.com/JohnkeyLee/SalutePinkWink-pd-graph/files/11240816/1-panda.csv)
 
-### 1-Dataframe
+### 1-Dataframe: Sort, merge, cut, trim, if, and etc.
 [1-Dataframe-results.csv](https://github.com/JohnkeyLee/SalutePinkWink-pandas-matplotlib-dataframe/files/11240821/1-Dataframe-results.csv)
 
-### 1-Matplotlib
+### 1-Matplotlib: Plot graphs
 ![Figure_1](https://user-images.githubusercontent.com/103592307/230974257-db2c6775-5a40-4f67-b072-dfeffe6c8e74.png)
 ![Figure_2](https://user-images.githubusercontent.com/103592307/230974258-4cc28e7a-ffba-4458-a233-1a5c31c7947b.png)
 ![Figure_3](https://user-images.githubusercontent.com/103592307/230974259-3594d1d4-764b-4157-b3da-8f16dea5797d.png)
